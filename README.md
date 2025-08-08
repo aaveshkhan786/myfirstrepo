@@ -1,3 +1,3 @@
 # myfirstrepo
-Hiii this is my first repo <br> my sels Aavesh khan 
+Hiii this is my first repo <br> my self Aavesh khan 
 hiiiiiiii
